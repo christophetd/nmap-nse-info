@@ -10,8 +10,7 @@ NSEInfo is a tool to interactively search through nmap's NSE scripts.
 Needs Python 2.7. To install, run:
 
 ```
-$ pip install nltk prettytable
-$ pip install git+https://github.com/christophetd/nmap-nse-info.git
+$ pip install nltk prettytable git+https://github.com/christophetd/nmap-nse-info.git
 ```
 
 # Sample usages
