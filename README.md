@@ -2,9 +2,7 @@
 
 NSEInfo is a tool to interactively search through nmap's NSE scripts.
 
-![screenshot](https://user-images.githubusercontent.com/136675/26920178-6affd926-4c38-11e7-9a4a-1fef0ea7d8f9.png)
-
-![screenshot2](https://user-images.githubusercontent.com/136675/26920121-2ec1a9b2-4c38-11e7-8d06-54b1a1f3030f.png)
+[![asciicast](https://asciinema.org/a/4av670luoetzj17y7oxho3juh.png)](https://asciinema.org/a/4av670luoetzj17y7oxho3juh)
 
 
 # Installation
